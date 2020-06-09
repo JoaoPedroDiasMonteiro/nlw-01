@@ -96,7 +96,7 @@ $ yarn start
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/JoaoPedroDiasMonteiro/nlw-01
 
 # Vá até o repositório
 $ cd NLW-1.0/mobile
