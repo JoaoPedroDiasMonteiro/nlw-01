@@ -34,11 +34,10 @@ O objetivo é conectar pessoas a empresas que coletam resíduos específicos, co
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js][nodejs]
-- [TypeScript][typescript]
-- [React][reactjs]
-- [React Native][rn]
-- [Expo][expo]
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 
 ## 🔖 Layout
 
@@ -47,7 +46,7 @@ Para acessar o layout use o [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Md
 ## :information_source: Como usar
 
 
-Para clonar e rodar esta aplicação você precisará [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] instalado no seu computador.
+Para clonar e rodar esta aplicação você precisará [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + [Yarn](https://yarnpkg.com/) instalado no seu computador.
 
 Na sua linha de comando:
 
